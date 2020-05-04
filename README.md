@@ -1,0 +1,2 @@
+# SCAMP-assesment
+Fibonacci sequence
